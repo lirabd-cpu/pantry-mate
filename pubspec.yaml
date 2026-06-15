@@ -1,0 +1,17 @@
+name: pantry_mate
+description: Pantry Mate - Voice based smart pantry manager
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  speech_to_text: ^6.6.0
+  permission_handler: ^11.0.0
+
+flutter:
+  uses-material-design: true
