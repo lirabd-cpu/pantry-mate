@@ -1,0 +1,7 @@
+lib/
+ ┣ main.dart
+ ┣ screens/
+ ┣ db/
+ ┣ models/
+ ┣ services/
+ ┗ utils/
